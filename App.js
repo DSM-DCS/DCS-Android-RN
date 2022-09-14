@@ -15,7 +15,7 @@ import { WebView } from 'react-native-webview'
        <StatusBar/>
        <SafeAreaView style={styles.root}>
         <WebView 
-             source={{ uri: 'https://dsm-dcs.netlify.app/' }}
+             source={{ uri: 'https://amazing-buttercream-ff835c.netlify.app/' }}
              pullToRefreshEnabled={true}
              startInLoadingState={true}
              allowsBackForwardNavigationGestures={true}
